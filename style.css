@@ -1,0 +1,47 @@
+h1{
+    color :#0011fc;
+    border : solid;
+    background-color: lightskyblue;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 11, 11);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+.grid{
+    display: flex;
+ }
+
+
+ .header{
+     background-color: #07f51b;
+     display: flex;
+     border : solid;
+     justify-content:space-between;
+
+ }
+
+ .footer{
+    display: flex;
+    justify-content: end;
+ }
+
+ h2{
+     text-align: center;
+ }
+
+
+ body{
+     background-color: whitesmoke;
+ }
+
+
+ h3{
+     color: rgb(229, 0, 250);
+     border: ridge;
+ }
+ 
